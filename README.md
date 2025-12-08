@@ -5,6 +5,25 @@ Histogram
 Gray-level Co-occurrence Matrix
 Gray-level Run-Length Matrix
 
+============================================================================================
+Instruction for Installation
+
+Texture_Analysis_Toolbox Executable : Please dowlload it following this link:
+
+- Please double click the Texture_Analysis_Toolbox_Installer.exe file and follow the instruction to install the texture analysis tool.
+  Note: Version 9.4 (R2018a) of the MATLAB Runtime will be installed following software Texture_Analysis_Toolbox_v1.3
+
+
+Definitions
+
+For information on deployment terminology, go to
+http://www.mathworks.com/help and select MATLAB Compiler >
+Getting Started > About Application Deployment >
+Deployment Product Terms in the MathWorks Documentation
+Center.
+
+==========================================================================
+
 Instructions for Use:
 
 Step-1: Upload Image data converted in Nifty format (.nii/.nii.gz) after pressing the 'Select Image' button. 
@@ -38,21 +57,4 @@ Built on code by: @EshaBaidyaKayal
 ==========================================================================
 
 
-Texture_Analysis_Toolbox Executable
-
--Texture_Analysis_Toolbox_Installer.exe 
-    Note: Version 9.4 (R2018a) of the MATLAB Runtime will be installed following 
-          the software Texture_Analysis_Toolbox_v1.3
--This readme file 
-
-
-Definitions
-
-For information on deployment terminology, go to
-http://www.mathworks.com/help and select MATLAB Compiler >
-Getting Started > About Application Deployment >
-Deployment Product Terms in the MathWorks Documentation
-Center.
-
-==========================================================================
 

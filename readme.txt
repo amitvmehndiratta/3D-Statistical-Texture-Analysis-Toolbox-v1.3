@@ -8,7 +8,7 @@ Analysis methods: Histogram, Gray-level Co-occurrence Matrix, Gray-level Run-Len
 
 Instruction for Installation
 
-Texture_Analysis_Toolbox Executable : Please dowlload it following this link:
+Texture_Analysis_Toolbox Executable : Please dowlload it following the link: https://csciitd-my.sharepoint.com/:f:/g/personal/amehndiratta_iitd_ac_in/IgD6ppeLYpLoQIlAyF15dKiwAeVUzFHNZVXAk3-q3P7VeI4?e=vNc5Ze
 
     Please double click the Texture_Analysis_Toolbox_Installer.exe file and follow the instruction to install the texture analysis tool.
 
@@ -37,3 +37,4 @@ If you have any queries or suggestions about this package, kindly contact Dr. Am
 Copyright © 2024 IIT Delhi, India Built on code by: @EshaBaidyaKayal
 
 ==========================================================================
+

@@ -11,6 +11,7 @@ Instruction for Installation
 Texture_Analysis_Toolbox Executable : Please dowlload it following this link:
 
 - Please double click the Texture_Analysis_Toolbox_Installer.exe file and follow the instruction to install the texture analysis tool.
+
   Note: Version 9.4 (R2018a) of the MATLAB Runtime will be installed following software Texture_Analysis_Toolbox_v1.3
 
 

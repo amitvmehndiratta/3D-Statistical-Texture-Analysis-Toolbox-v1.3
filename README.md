@@ -7,7 +7,7 @@ Texture analysis methods: Histogram, Gray-level Co-occurrence Matrix, Gray-level
 
 Instruction for Installation
 
-Texture_Analysis_Toolbox Executable : Please dowlload it [here] (https://csciitd-my.sharepoint.com/:f:/g/personal/amehndiratta_iitd_ac_in/IgD6ppeLYpLoQIlAyF15dKiwAeVUzFHNZVXAk3-q3P7VeI4?e=vNc5Ze)
+Texture_Analysis_Toolbox Executable : Please dowlload it [here](https://csciitd-my.sharepoint.com/:f:/g/personal/amehndiratta_iitd_ac_in/IgD6ppeLYpLoQIlAyF15dKiwAeVUzFHNZVXAk3-q3P7VeI4?e=vNc5Ze)
 
 - Please double click the Texture_Analysis_Toolbox_Installer.exe file and follow the instruction to install the texture analysis tool.
 

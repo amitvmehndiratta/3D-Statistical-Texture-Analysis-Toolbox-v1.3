@@ -5,7 +5,8 @@ Histogram
 Gray-level Co-occurrence Matrix
 Gray-level Run-Length Matrix
 
-============================================================================================
+===========================================================================
+
 Instruction for Installation
 
 Texture_Analysis_Toolbox Executable : Please dowlload it following this link:
